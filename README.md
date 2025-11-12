@@ -3,8 +3,6 @@
 ![Enterprise Architect](https://img.shields.io/badge/Enterprise-Architect-green?logo=sparxsystems)
 ![Draw.io](https://img.shields.io/badge/Draw.io-Diagrams-lightgrey?logo=diagrams.net)
 
-# Business Process Modeling Coursework
-
 # Моделирование бизнес-процессов: Подготовка ежемесячного отчета по продажам
 
 ## Цель проекта
